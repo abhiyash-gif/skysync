@@ -1,0 +1,6 @@
+{
+  "name": "Skysync",
+  "description": "See the real fare. Find the better time to fly. Transparent flight fare breakdowns, cross-platform comparisons, statistical fare forecasting, and price tracking across Indian routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
